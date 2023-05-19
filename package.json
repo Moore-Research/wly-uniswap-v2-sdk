@@ -2,7 +2,7 @@
   "name": "wly-uniswap-v2-sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of wly.",
+  "description": "🛠 An SDK for building applications on top of uniswap wly.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
